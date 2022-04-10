@@ -17,7 +17,6 @@ This is a demo api, which serves basic requirements from developer challenge gui
     - Entity Framework core
     - Fluent Validation
     - Xunit
-	- Moq
 ## Project Structure
    - The Project follows Contracts, Database, Business, Security, Application, Test layer accordingly.
 
