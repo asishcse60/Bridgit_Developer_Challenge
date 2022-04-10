@@ -1,0 +1,1 @@
+dotnet run --project ScreechrDemo\\ScreechrDemo.Api.csproj
